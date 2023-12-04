@@ -1,4 +1,4 @@
-<h1>SQL Techniques Projects</h1>
+<h1>SQL Techniques</h1>
 
  ### SQL projects demonstrates comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
