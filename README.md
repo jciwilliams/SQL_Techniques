@@ -20,9 +20,6 @@ Extracting, Sorting, Filtering, and Ranking Data: <br/>
 <br />
 
 
-https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
-
-
 <h2>SQL Project 2</h2>
 Provide a list of millennial users in our top market that joined in the last year whose monthly subscription is at least $14.99 per month. Sort by the country from A to Z, then by the join date from newest to oldest.
 <br />
@@ -85,4 +82,4 @@ Case Statements: <br/>
 ```
 --!>
 
-
+https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
