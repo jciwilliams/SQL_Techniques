@@ -1,6 +1,8 @@
 <h1>SQL Techniques</h1>
 <img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
 
+https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
+
  ### SQL projects demonstrates comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
  - <b>Filtering, Calculating and Aggregating Data</b>
@@ -82,4 +84,4 @@ Case Statements: <br/>
 ```
 --!>
 
-https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
+
