@@ -11,8 +11,6 @@
 Our content team is reviewing our storage capacity, which is nearing its limit due to storage and licensing costs. Provide the 2 countries that have the largest amount of TV content on Netflix along with their costs for each plan level?
 <br />
 
-https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
-
 
 ###
 <p align="center">
@@ -20,6 +18,9 @@ Extracting, Sorting, Filtering, and Ranking Data: <br/>
 <img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/26000ba2-9312-4674-af63-85ce2aee8902">
 <br />
 <br />
+
+
+https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
 
 
 <h2>SQL Project 2</h2>
