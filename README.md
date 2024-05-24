@@ -82,4 +82,3 @@ Case Statements: <br/>
 ```
 --!>
 
-https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
