@@ -1,8 +1,6 @@
 <h1>SQL Techniques</h1>
 <img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
 
-https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
-
  ### SQL projects demonstrates comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
  - <b>Filtering, Calculating and Aggregating Data</b>
@@ -12,6 +10,8 @@ https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-467
 <h2>SQL Project 1</h2>
 Our content team is reviewing our storage capacity, which is nearing its limit due to storage and licensing costs. Provide the 2 countries that have the largest amount of TV content on Netflix along with their costs for each plan level?
 <br />
+
+https://github.com/jciwilliams/SQL_Techniques/assets/152811710/73d1e0e4-a0b4-4676-938c-8ae4e26688c5
 
 
 ###
