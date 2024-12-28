@@ -4,7 +4,7 @@
  ### SQL projects demonstrates comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
  - <b>Filtering, Calculating and Aggregating Data</b>
- - <b>Summaring the Data</b>
+ - <b>Summarizing the Data</b>
  - <b>Retrieving Data from Multiple Table</b>
 
 <h2>SQL Project 1</h2>
