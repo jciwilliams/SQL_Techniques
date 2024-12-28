@@ -1,7 +1,7 @@
 <h1>SQL Techniques</h1>
 <img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
 
- ### SQL projects demonstrates comprehensive skills like: 
+ ### SQL projects demonstrate comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
  - <b>Filtering, Calculating and Aggregating Data</b>
  - <b>Summarizing the Data</b>
@@ -60,7 +60,7 @@ Joins: <br/>
 
 
 <h2>SQL Project 5</h2>
-Our marketing director wants to focus on age specific target marketing for our users. Provide them with a list of users who are only Gen Zers and non-Gen Zers? Gen Z is any user 24 and under.
+Our marketing director wants to focus on age-specific target marketing for our users. Provide them with a list of users who are only Gen Zers and non-Gen Zers? Gen Z is any user 24 and under.
 <br />
 
 ###
