@@ -1,5 +1,10 @@
-<h1>SQL Techniques</h1>
-![SQL Techniques](https://github.com/user-attachments/assets/79926cfb-c805-45c6-8d40-3d566faee7ac)
+
+## My SQL Portfolio
+
+Check out my SQL techniques below:
+
+[![SQL Techniques](https://github.com/user-attachments/assets/79926cfb-c805-45c6-8d40-3d566faee7ac)](https://myportfolio.com/sql-techniques)
+
 
 
  ### SQL projects demonstrate comprehensive skills like: 
